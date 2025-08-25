@@ -3,7 +3,7 @@
 
 
 
-En este proyecto se pretende realizar un modelo de regresión lineal múltiple que contenga solamente las variables seleccionadas por un proceso de selección hacia adelante y eliminación hacia atrás. Para lograr esto, se tomó información de la base de datos descargados del [UCI Machine Learning Repository]([https://archive.ics.uci.edu/dataset/291/airfoil+self+noise](https://archive.ics.uci.edu/dataset/186/wine+quality)) y originalmente reportados en una publicación científica para la revista en el [Decision Support Systems](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub)
+En este proyecto se pretende realizar un modelo de regresión lineal múltiple que contenga solamente las variables seleccionadas por un proceso de selección hacia adelante y eliminación hacia atrás. Para lograr esto, se tomó información de la base de datos descargados del [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/186/wine+quality) y originalmente reportados en una publicación científica para la revista en el [Decision Support Systems](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub)
 
 La base de datos cuenta con la siguiente información:
 
